@@ -1,0 +1,70 @@
+Omid Mehrabian Email : omid.mehrabian@gmail.com
+www.linkedin.com/in/mehomid Mobile:+1-613-890-7946
+Summery
+Looking for a Software Engineering position in an exciting company that requires someone with leadership, a
+passion for dealing with complex problems and capability of delivering a model or tool to the customer. I have
+more than two years of work experience and a strong academic background in Software Engineering and Machine
+Learning.
+Skills
+• Programming Languages: Python, C#, C, Matlab, Java
+• Machine Learning Frameworks: Pandas, Scikit-Learn, Sciypy, Numpy, ,PySpark
+• Software Methodology: Agile, Scrum
+• Version Control System:Git, GitLab, GitHub
+• Databases: HBase, Elastic Search, MySQL
+Experience
+• Micro Focus Ottawa, ON
+Data Integration Engineer(Intern) May 2020 - Aug 2020
+ Wrote a script for generating new tables in HBase for dynamic eld mapping for working with dierent
+versions of Elastic Search.
+ Refactored the code for connecting to the HBase to working with the new Elastic Search and HBase
+based on the customer needs.
+ Automated the ETL Process using Apache Ni for storing the new schema in Elastic Search and HBase.
+ Set up a new cluster on the the Cloudera for the new Elastic Search and HBase.
+ Updated the Bash scripts for including new data retention policies for HBase and Elastic Search.
+• Micro Focus Ottawa, ON
+Data Science(Intern) Jan 2020 - Apr 2020
+ Built a data generator from scratch based on the company's new resolution for not using customer's data
+and generating new data with similar statistics characteristics to the original data but not traceable.
+ Wrote a new python script for connecting to HBase and run multiple SQL queries for extracting stats
+from data.
+ Used Python Pandas for cleaning and manipulating the extracted data.
+ Used PySpark for improving the speed of clustering.
+ Resolved the issue for falsely detecting new observed entities as anomalistic behavior by tuning
+parameters on gamma function.
+• The Pc Room Ottawa, ON
+Software Technician Jan 2019 -Dec 2019
+ Maintaining the company website.
+ Helped with customer's software issues.
+Academic Experience
+• University Of Ottawa Ottawa, ON
+Teaching Assitant Sep 2019 - Dec 2020
+ Helped with marking assignments, holding tutorials and lab sessions for introductory courses like
+introduction to computing and software engineering.
+• University of Khajeh Nasir Toosi Tehran, Teh
+Data Science Research Assistant Sep 2016 -Sep 2018
+ Assisted in developing a new method for improving K nearest neighbors classication performance.
+Selected Projects
+• Observing the eects of feature selection algorithms on the performance of supervised machine learning
+algorithms for detecting malicious DNS over HTTPS (DoH) using python Pandas and Scikit-learn.
+(Current Project)
+• Implementing a bot using python for gathering information from users on top of heroku cloud application
+platform.
+• Implementation of neural networks using Python Scikit-learn for clustering patients with epileptic seizure
+based on their EGG Signal.
+Education
+• University of Ottawa Ottawa, Canada
+Master of Science in Computer Science 2019 { 2021
+Selected Courses: Machine Learning, AI in Medicine, Algorithm Analysis and Design, Mining Software
+Repositories, Ethics in AI
+• University of Khajeh Nasir Toosi Tehran, Iran
+Master of Science in Articial intelligence and Robotics 2015 { 2017
+Selected Courses: Probabilistic Graphical Models, Reinforcement Learning, Data Mining, Neural Networks
+• University of Azad Tehran, Iran
+Bachelor of Engineering in Computer Engineering 2009 { 2015
+Selected Courses: Data Structures, Algorithms, Introduction to Software Engineering
+Volunteering
+• University of Khajeh Nasir Toosi Tehran, Iran
+Cooperation With Executive Committee Of The 25th Iranian On Electrical Engineering(ICEE 2017) 2016 { 2017
+Interests
+• Running,Tennis, Swimming
+• Solving Puzzles, Card Games
